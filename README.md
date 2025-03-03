@@ -11,6 +11,9 @@ https://www.bilibili.com/video/BV1TeAYe6EZj
 不直接优化是为了防止某些人说我抄袭SVkey
 
 
+我在pastebin发布的代码使用了deepseek的qwe2.5-coder蒸馏版本（自己训练）进行整合
+
+
 再次声明：1.视频发出后有人说SV有类似“破解版”，我去闲鱼花了5元买了所谓的“破解版”才了解到SVkey以及SV Sharp。在此之前我完全不了解SVkey
 
 

@@ -1,6 +1,7 @@
 # 仓库说明
 我忍无可忍了，自从视频
-https://www.bilibili.com/video/BV1TeAYe6EZj
+$https://www.bilibili.com/video/BV1TeAYe6EZj$
+视频已下架
 发出之后，就有两三个人一直在轰炸我的Bilibili私信，说我使用了SVKey的开源部分。不多说，自己看：
 ![image](https://github.com/user-attachments/assets/4723db73-a8d3-4754-b0ba-6d51b0c412ed)
 ![image](https://github.com/user-attachments/assets/5ee00e59-6035-4ca6-a4c8-e6bdde025545)

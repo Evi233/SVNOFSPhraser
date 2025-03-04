@@ -1,7 +1,10 @@
 # 仓库说明
 我忍无可忍了，自从视频
 ~https://www.bilibili.com/video/BV1TeAYe6EZj~
-视频已下架
+视频已下架。原因：侵权
+![image](https://github.com/user-attachments/assets/5473de58-b1e1-41f8-a45e-8c42c2989a08)
+![image](https://github.com/user-attachments/assets/0de68e3d-e28e-4cf8-b346-54fc0f3a70fe)
+
 发出之后，就有两三个人一直在轰炸我的Bilibili私信，说我使用了SVKey的开源部分。不多说，自己看：
 ![image](https://github.com/user-attachments/assets/4723db73-a8d3-4754-b0ba-6d51b0c412ed)
 ![image](https://github.com/user-attachments/assets/5ee00e59-6035-4ca6-a4c8-e6bdde025545)

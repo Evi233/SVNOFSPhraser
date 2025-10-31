@@ -1,41 +1,13 @@
-# 仓库说明
-我忍无可忍了，自从视频
-~https://www.bilibili.com/video/BV1TeAYe6EZj~
-视频已下架。原因：侵权
-![image](https://github.com/user-attachments/assets/5473de58-b1e1-41f8-a45e-8c42c2989a08)
-![image](https://github.com/user-attachments/assets/0de68e3d-e28e-4cf8-b346-54fc0f3a70fe)
+# **[ARCHIVED] - Repository with License Issues**
 
-发出之后，就有两三个人一直在轰炸我的Bilibili私信，说我使用了SVKey的开源部分。不多说，自己看：
-![image](https://github.com/user-attachments/assets/4723db73-a8d3-4754-b0ba-6d51b0c412ed)
-![image](https://github.com/user-attachments/assets/5ee00e59-6035-4ca6-a4c8-e6bdde025545)
-![image](https://github.com/user-attachments/assets/6baaf3c0-21a1-42f4-89a3-5a4c52745c8c)
-这是我解析器的原始代码及创建日期。最后修改在今天是因为我把我的抽象定义名标注来开源
+> **This repository has been archived due to concerns raised about its originality and potential license violations (GPLv3) related to the SVKey project.**
 
+## Statement
 
-不直接优化是为了防止某些人说我抄袭SVkey
+This code was originally downloaded from the `opensynthv/NOFSPraser` project before it disappeared. I am not the original author.
 
+It has been brought to my attention that the code bears significant similarity to the SVKey project (licensed under GPLv3), which I was previously unaware of.
 
-我在pastebin发布的代码使用了deepseek的qwe2.5-coder蒸馏版本（自己训练）进行整合
+This repository is now archived permanently. Please refer to the original SVKey project for the canonical source.
 
-
-再次声明：1.视频发出后有人说SV有类似“破解版”，我去闲鱼花了5元买了所谓的“破解版”才了解到SVkey以及SV Sharp。在此之前我完全不了解SVkey
-
-
-2.请轰炸我的人立刻停止轰炸，我就不说是谁了，瞪大你们的眼睛看看
-
-
-3.懒得跟任何人辩驳，我还有学业要完成
-
-
-4.因为EULA明确禁止解包，所以有些文件我是不能发出来的
-
-
-有疑问可以在issues提出
-
-
-原理正在整理
-
-
-这逆向谁愿意做谁做去吧😅
-
-
+**I do not grant any license for the use of this code.**
